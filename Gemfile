@@ -9,5 +9,5 @@ group :development do
 end
 
 group :test do
-  gem 'minitest-spec-rails', :github => 'metaskills/minitest-spec-rails', :branch => '2-3-stable'
+  # gem 'minitest-spec-rails', :github => 'metaskills/minitest-spec-rails', :branch => '2-3-stable'
 end
