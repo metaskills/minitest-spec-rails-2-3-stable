@@ -43,6 +43,6 @@ PLATFORMS
 
 DEPENDENCIES
   minitest-spec-rails!
-  rails (~> 2.3.17)
+  rails (= 2.3.17)
   rdoc
   sqlite3
